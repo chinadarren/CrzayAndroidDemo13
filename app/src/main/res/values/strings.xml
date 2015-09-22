@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrzayAndroidDemo13</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="book">
+        <item>1.java</item>
+        <item>2.android</item>
+        <item>3.ajax</item>
+        <item>4.xml</item>
+    </string-array>
+</resources>
